@@ -7,3 +7,5 @@ my age is 23
 school is Trinity college
 
 my home town is Kandy
+
+adding a small change to the last line
