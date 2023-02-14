@@ -9,3 +9,8 @@ school is Trinity college
 my home town is Kandy
 
 adding a small change to the last line
+
+adding new line to file 4
+
+this is another line being added
+
